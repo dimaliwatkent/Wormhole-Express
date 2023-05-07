@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory>
+  <business>
+    <name>ABC Company</name>
+    <address>Sihi Buenavista</address>
+    <phone>(212) 555-1234</phone>
+    <email>info@abccompany.com</email>
+    <website>www.abccompany.com</website>
+    <category>Technology</category>
+    <description>ABC Company is a leading provider of technology solutions.</description>
+  </business>
+  <business>
+    <name>XYZ Corporation</name>
+    <address>timbo Buenavista</address>
+    <phone>(310) 555-5678</phone>
+    <email>info@xyzcorp.com</email>
+    <website>www.xyzcorp.com</website>
+    <category>Finance</category>
+    <description>XYZ Corporation provides comprehensive financial services to businesses and individuals.</description>
+  </business>
+  <business>
+    <name>Acme Industries</name>
+    <address>789 Oak Street</address>
+    <phone>(415) 555-9012</phone>
+    <email>info@acmeindustries.com</email>
+    <website>www.acmeindustries.com</website>
+    <category>Manufacturing</category>
+    <description>Acme Industries is a leading manufacturer of industrial equipment.</description>
+  </business>
+  <business>
+    <name>Global Logistics</name>
+    <address>1010 Broad Street</address>
+    <phone>(617) 555-3456</phone>
+    <email>info@globallogistics.com</email>
+    <website>www.globallogistics.com</website>
+    <category>Transportation</category>
+    <description>Global Logistics provides shipping and logistics services around the world.</description>
+  </business>
+  <business>
+    <name>Green Energy Solutions</name>
+    <address>234 Elm Street</address>
+    <phone>(312) 555-7890</phone>
+    <email>info@greenenergysolutions.com</email>
+    <website>www.greenenergysolutions.com</website>
+    <category>Environmental</category>
+    <description>Green Energy Solutions provides renewable energy solutions to businesses and homes.</description>
+  </business>
+  <business>
+    <name>Mountain View Resort</name>
+    <address>567 Pine Drive</address>
+    <phone>(802) 555-2345</phone>
+    <email>info@mountainviewresort.com</email>
+    <website>www.mountainviewresort.com</website>
+    <category>Hospitality</category>
+    <description>Mountain View Resort is a luxury resort nestled in the mountains.</description>
+  </business>
+  <business>
+    <name>Optima Health</name>
+    <address>890 Maple Avenue</address>
+    <phone>(703) 555-6789</phone>
+    <email>info@optimahealth.com</email>
+    <website>www.optimahealth.com</website>
+    <category>Healthcare</category>
+    <description>Optima Health provides health insurance and healthcare services to individuals and businesses.</description>
+  </business>
+  <business>
+    <name>Superior Cleaning Services</name>
+    <address>1111 Main Street</address>
+    <phone>(404) 555-1234</phone>
+    <email>info@superiorcleaning.com</email>
+    <website>www.superiorcleaning.com</website>
+    <category>Cleaning</category>
+    <description>A cleaning industry </description>
+  </business>
+</directory>
